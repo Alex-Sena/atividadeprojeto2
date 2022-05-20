@@ -1,1 +1,2 @@
 anicio auxiliar
+fim do auxiliar
